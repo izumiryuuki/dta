@@ -1,0 +1,11 @@
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\bin\Debug\myFirstApp1.exe.config
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\bin\Debug\myFirstApp1.exe
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\bin\Debug\myFirstApp1.pdb
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\obj\Debug\myFirstApp1.csproj.AssemblyReference.cache
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\obj\Debug\myFirstApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\obj\Debug\myFirstApp1.Properties.Resources.resources
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\obj\Debug\myFirstApp1.csproj.GenerateResource.cache
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\obj\Debug\myFirstApp1.csproj.CoreCompileInputs.cache
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\obj\Debug\myFirstApp1.exe
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\obj\Debug\myFirstApp1.pdb
+C:\Users\salva\source\repos\myFirstApp1\myFirstApp1\obj\Debug\myFirstApp1.Form1.resources
